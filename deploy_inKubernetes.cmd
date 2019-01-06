@@ -1,0 +1,1 @@
+kubectl apply -f ./build/classes/java/main/META-INF/ap4k/kubernetes.yml
